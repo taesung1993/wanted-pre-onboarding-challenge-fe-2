@@ -1,5 +1,7 @@
 #### 2월 프리온보딩 챌린지 과제 입니다.
 
+- [Documentation 바로가기](https://taesung1993.github.io/wanted-pre-onboarding-challenge-fe-2/)
+
 ```(javascript)
 const {
   createTodo,
